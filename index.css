@@ -51,12 +51,10 @@
 .ribbon:before {
   position:absolute;
   left: 0;
-  bottom: -3px;
 }
 .ribbon:after {
   position:absolute;	
   right: 0;
-  bottom: -3px;
 }
 
 .ribbon-green {
